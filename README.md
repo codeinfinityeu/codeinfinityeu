@@ -83,12 +83,6 @@ Simplified version of art gallery project. Made with Three.js and Nuxt 3. It’s
 
 BIP CMS based on Drupal 10.x
 
-[https://bip.devnrc.pl](https://bip.devnrc.pl/)
-
-Presentation: 
-
-[https://bip.devnrc.pl/system-bip](https://bip.devnrc.pl/system-bip)
-
 ### Tech stack / modules:
 
 - search API
